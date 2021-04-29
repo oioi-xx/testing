@@ -1,0 +1,24 @@
+@media screen and (max-width: 1280px) { 
+    .skill-graph{display: none}
+    .mobile-response-graph{display: block}
+}
+@media screen and (max-width: 890px) { 
+#mobilecontainer,#mobilecontainer1,#mobilecontainer2,#mobilecontainer3,#mobilecontainer4,#mobilecontainer5,#mobilecontainer6,#mobilecontainer7,#mobilecontainer8{ margin: 20px;width: 400px;height: 8px;position: relative;}
+}
+
+@media screen and (max-width: 700px) { 
+#mobilecontainer,#mobilecontainer1,#mobilecontainer2,#mobilecontainer3,#mobilecontainer4,#mobilecontainer5,#mobilecontainer6,#mobilecontainer7,#mobilecontainer8{ margin: 20px;width: 300px;height: 8px;position: relative;}
+}
+
+@media screen and (max-width: 650px) { 
+#mobilecontainer,#mobilecontainer1,#mobilecontainer2,#mobilecontainer3,#mobilecontainer4,#mobilecontainer5,#mobilecontainer6,#mobilecontainer7,#mobilecontainer8{ margin: 20px;width: 280px;height: 8px;position: relative;}
+}
+
+@media screen and (max-width: 570px) { 
+#mobilecontainer,#mobilecontainer1,#mobilecontainer2,#mobilecontainer3,#mobilecontainer4,#mobilecontainer5,#mobilecontainer6,#mobilecontainer7,#mobilecontainer8{ margin: 20px;width: 230px;height: 8px;position: relative;}
+}
+
+@media screen and (max-width: 525px) { 
+#mobilecontainer,#mobilecontainer1,#mobilecontainer2,#mobilecontainer3,#mobilecontainer4,#mobilecontainer5,#mobilecontainer6,#mobilecontainer7,#mobilecontainer8{ margin: 20px;width: 200px;height: 8px;position: relative;}
+}
+

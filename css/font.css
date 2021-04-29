@@ -1,0 +1,50 @@
+@font-face{
+    font-family: 'Neuzeit Grotesk';
+    src: url('NeuzeitGro-Bla.eot');
+    src: url('NeuzeitGro-Bla.ttf');
+    src: local('Neuzeit Grotesk Black'), local('NeuzeitGro-Bla'),
+        url('NeuzeitGro-Bla.eot?#iefix') format('embedded-opentype'),
+        url('NeuzeitGro-Bla.woff2') format('woff2'),
+        url('NeuzeitGro-Bla.woff') format('woff'),
+        url('NeuzeitGro-Bla.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'Neuzeit-Grotesk';
+    src: url('NeuzeitGro-Reg.eot');
+    src: local('Neuzeit Grotesk Regular'), local('NeuzeitGro-Reg'),
+        url('NeuzeitGro-Reg.eot?#iefix') format('embedded-opentype'),
+        url('NeuzeitGro-Reg.woff2') format('woff2'),
+        url('NeuzeitGro-Reg.woff') format('woff'),
+        url('NeuzeitGro-Reg.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neuzeit-Grotesk1';
+    src: url('NeuzeitGro-Bol.eot');
+    src: local('Neuzeit Grotesk Bold'), local('NeuzeitGro-Bol'),
+        url('NeuzeitGro-Bol.eot?#iefix') format('embedded-opentype'),
+        url('NeuzeitGro-Bol.woff2') format('woff2'),
+        url('NeuzeitGro-Bol.woff') format('woff'),
+        url('NeuzeitGro-Bol.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neuzeit-Grotesk2';
+    src: url('NeuzeitGro-Lig.eot');
+    src: local('Neuzeit Grotesk Light'), local('NeuzeitGro-Lig'),
+        url('NeuzeitGro-Lig.eot?#iefix') format('embedded-opentype'),
+        url('NeuzeitGro-Lig.woff2') format('woff2'),
+        url('NeuzeitGro-Lig.woff') format('woff'),
+        url('NeuzeitGro-Lig.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
